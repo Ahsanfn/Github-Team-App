@@ -6,7 +6,7 @@ Note: This app is made by flutter
 
 Copyright © 2022 AHSAN. All rights reserved
 
-Check Website online: http.______.com
+Check Website online: https://ahsanfn.github.io/Github-Team-App/
 
 
 
